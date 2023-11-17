@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^4.29.7",
+    "axios": "^1.4.0",
+    "gsap": "^3.12.2",
+    "styled-components": "^6.0.0-rc.1"
+  }
+}
